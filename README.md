@@ -20,7 +20,7 @@ Updating everyday
 - PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data.  [[Paper]](https://www.mdpi.com/2227-7390/10/4/610)
 
 ## 2021
--Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
+- Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
 
 ## 2018
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
