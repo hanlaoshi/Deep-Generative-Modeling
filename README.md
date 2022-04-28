@@ -22,5 +22,8 @@ Updating everyday
 ## 2021
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
 
+## 2019
+- Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
+
 ## 2018
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
