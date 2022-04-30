@@ -21,6 +21,7 @@ Updating everyday
 
 ## 2021
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
+- Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103) [[Code]](https://github.com/zalandoresearch/pytorch-ts)
 
 ## 2020
 - Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
