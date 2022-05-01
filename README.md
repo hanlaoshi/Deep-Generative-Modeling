@@ -33,3 +33,4 @@ Updating everyday
 
 ## 2018
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
+- Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
