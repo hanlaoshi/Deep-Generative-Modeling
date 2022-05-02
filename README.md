@@ -36,6 +36,6 @@ Updating everyday
 - Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
 
 ## 2017
-- Masked Autoregressive Flow for Density Estimation. [[Paper]]  [[Code]](https://github.com/gpapamak/maf)
+- Masked Autoregressive Flow for Density Estimation. [[Paper]](https://arxiv.org/abs/1705.07057)  [[Code]](https://github.com/gpapamak/maf)
 
 
