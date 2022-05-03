@@ -30,6 +30,7 @@ Updating everyday
 ## 2019
 - Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
 - Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design. [[Paper]](https://proceedings.mlr.press/v97/ho19a.html) [[Code]](https://github.com/aravind0706/flowpp)  [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/imagenet)
+- Sum-of-Squares Polynomial Flow. [[Paper]](http://proceedings.mlr.press/v97/jaini19a.html)
 
 ## 2018
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
