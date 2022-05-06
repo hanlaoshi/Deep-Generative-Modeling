@@ -16,6 +16,10 @@ Updating everyday
 # <table><tr><td bgcolor=orange> 🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
+- E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016) [[Code]](https://github.com/vgsatorras/en_flows)
+
+    --   Introduces equivariant graph neural networks into the normalizing flow framework which combine to give invertible equivariant functions. Demonstrates their             flow beats prior equivariant models and allows sampling of molecular configurations with positions, atom types and charges.
+
 - BayesFlow: Learning complex stochastic models with invertible neural networks.  [[Paper]](https://arxiv.org/abs/2003.06281) [[Code]](https://github.com/stefanradev93/BayesFlow)
 - PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data.  [[Paper]](https://www.mdpi.com/2227-7390/10/4/610)
 
