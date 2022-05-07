@@ -39,6 +39,10 @@ Updating everyday
 - Sum-of-Squares Polynomial Flow. [[Paper]](http://proceedings.mlr.press/v97/jaini19a.html)
 
 ## 2018
+- Neural Processes. [[Paper]](https://arxiv.org/abs/1807.01622)   [[Code]](https://github.com/deepmind/neural-processes)
+        
+        --We introduce a class of neural latent variable models which we call Neural Processes (NPs), combining the best of both worlds. Like Gaussian process, NPs                 define distributions over functions, are capable of rapid adaptation to new observations, and can estimate the uncertainty in their predictions. 
+        
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
 - Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
 
