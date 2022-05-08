@@ -24,6 +24,10 @@ Updating everyday
 - PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data.  [[Paper]](https://www.mdpi.com/2227-7390/10/4/610)
 
 ## 2021
+- CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
+
+        These authors sought to improve the emerging convolutions as they were expensive. So they investigated the conditions for when 3x3 convolutions are invertible under which conditions (e.g. padding) and saw successful speedups. Furthermore, they developed a more expressive, invertible Quad coupling layer. 
+
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
 - Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
 - Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting. [[Paper]](http://proceedings.mlr.press/v139/rasul21a.html)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
