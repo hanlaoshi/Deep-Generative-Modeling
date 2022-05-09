@@ -30,7 +30,7 @@ Updating everyday
 
 - Orthogonalizing Convolutional Layers with the Cayley Transform. [[Paper]](https://arxiv.org/abs/2104.07167)  [[Code]](https://github.com/locuslab/orthogonal-convolutions)
 
-        The authors parameterized the multichannel convolution to be orthogonal via the Cayley transform (skew-symmetric convolutions in the Fourier domain). This enables the inverse to be computed efficiently.
+        The authors parameterized the multichannel convolution to be orthogonal via the Cayley transform (skew-symmetric convolutions in the Fourier domain). This enables the inverse to be computed efficiently . 
 
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
 - Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
