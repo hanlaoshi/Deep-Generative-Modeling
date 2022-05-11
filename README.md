@@ -34,7 +34,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Automatic variational inference with cascading flows. [[Paper]](http://proceedings.mlr.press/v139/ambrogioni21a.html) 
 
-        we combine the flexibility of normalizing flows and the prior-embedding property of ASVI in a new family of variational programs, which we named cascading flows.
+        This paper combine the flexibility of normalizing flows and the prior-embedding property of ASVI in a new family of variational programs, which named cascading flows.
 
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
 - Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
