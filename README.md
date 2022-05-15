@@ -28,16 +28,16 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         These authors sought to improve the emerging convolutions as they were expensive. So they investigated the conditions for when 3x3 convolutions are invertible under which conditions (e.g. padding) and saw successful speedups. Furthermore, they developed a more expressive, invertible Quad coupling layer. 
 
-- Orthogonalizing Convolutional Layers with the Cayley Transform. [[Paper]](https://arxiv.org/abs/2104.07167)  [[Code]](https://github.com/locuslab/orthogonal-convolutions)
+- Orthogonalizing Convolutional Layers with the Cayley Transform.  [[Paper]](https://arxiv.org/abs/2104.07167)  [[Code]](https://github.com/locuslab/orthogonal-convolutions)
 
         The authors parameterized the multichannel convolution to be orthogonal via the Cayley transform (skew-symmetric convolutions in the Fourier domain). This enables the inverse to be computed efficiently . 
 
-- Automatic variational inference with cascading flows. [[Paper]](http://proceedings.mlr.press/v139/ambrogioni21a.html) 
+- Automatic variational inference with cascading flows.  [[Paper]](http://proceedings.mlr.press/v139/ambrogioni21a.html) 
 
         This paper combine the flexibility of normalizing flows and the prior-embedding property of ASVI in a new family of variational programs, which named cascading flows.
 
-- Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.  [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
-- Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
+- Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.   [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
+- Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)   [[Code]](https://github.com/zalandoresearch/pytorch-ts)
 - Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting. [[Paper]](http://proceedings.mlr.press/v139/rasul21a.html)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
 
 ## 2020
