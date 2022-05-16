@@ -26,7 +26,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 ## 2021
 - CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
 
-        These authors sought to improve the emerging convolutions as they were expensive. So they investigated the conditions for when 3x3 convolutions are invertible under which conditions (e.g. padding) and saw successful speedups. Furthermore, they developed a more expressive, invertible Quad coupling layer. 
+        This paper sought to improve the emerging convolutions as they were expensive. So they investigated the conditions for when 3x3 convolutions are invertible under which conditions (e.g. padding) and saw successful speedups. Furthermore, they developed a more expressive, invertible Quad coupling layer. 
 
 - Orthogonalizing Convolutional Layers with the Cayley Transform.  [[Paper]](https://arxiv.org/abs/2104.07167)  [[Code]](https://github.com/locuslab/orthogonal-convolutions)
 
