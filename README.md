@@ -7,13 +7,13 @@ Updating everyday
 Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
 
-# <table><tr><td bgcolor=orange> 🔥Book for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange>  🔥Book for generative modeling</td></tr></table>
 
 ## 2022
 - Deep Generative Modeling (Contained code)   [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 
 
-# <table><tr><td bgcolor=orange> 🔥Paper for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
 - E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016) [[Code]](https://github.com/vgsatorras/en_flows)
