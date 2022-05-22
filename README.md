@@ -53,7 +53,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 ## 2019
 - Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
 
-         We propose block neural autoregressive flow (B-NAF), a much more compact universal approximator of density functions, where we model a bijection directly using a single feed-forward network.
+         This paper propose block neural autoregressive flow (B-NAF), a much more compact universal approximator of density functions, where we model a bijection directly using a single feed-forward network.
 
 - Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design. [[Paper]](https://proceedings.mlr.press/v97/ho19a.html) [[Code]](https://github.com/aravind0706/flowpp)  [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/imagenet)
 - Sum-of-Squares Polynomial Flow. [[Paper]](http://proceedings.mlr.press/v97/jaini19a.html)
