@@ -25,6 +25,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data.  [[Paper]](https://www.mdpi.com/2227-7390/10/4/610)
 
+        This paper proposes a novel planar flow-based variational auto-encoder prediction model (PFVAE), which uses the long- and short-term memory network (LSTM) as the auto-encoder and designs the variational auto-encoder (VAE) as a time series data predictor to overcome the noise effects.
+
 ## 2021
 - CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
 
