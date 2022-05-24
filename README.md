@@ -46,6 +46,9 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
          This compendium covers energy-based models, variational autoencoders, generative adversarial networks, autoregressive models, normalizing flows, in addition to numerous hybrid approaches
 
 - Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)   [[Code]](https://github.com/zalandoresearch/pytorch-ts)
+
+ In this work we model the multivariate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow.
+
 - Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting. [[Paper]](http://proceedings.mlr.press/v139/rasul21a.html)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
 
 ## 2020
