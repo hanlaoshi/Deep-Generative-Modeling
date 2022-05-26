@@ -71,92 +71,13 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
 
-        # Deep-Generative-Modeling
-
-This is a repository about Deep Generative Modeling(More attention to  probabilistic time series forecasting with Normalizing Flows) 
-
-Updating everyday!
-
-Contact me: hanaif@mail2.sysu.edu.cn</font> 
-
-
-# <table><tr><td bgcolor=orange>  🔥Book for generative modeling</td></tr></table>
-
-## 2022
-- Deep Generative Modeling (Contained code)   [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
-
-# <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
-
-## 2022
-- E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016) [[Code]](https://github.com/vgsatorras/en_flows)
-
-        This paper introduces equivariant graph neural networks into the normalizing flow framework which combine to give invertible equivariant functions. Demonstrates their flow beats prior equivariant models and allows sampling of molecular configurations with positions, atom types and charges.
-
-- BayesFlow: Learning complex stochastic models with invertible neural networks.  [[Paper]](https://arxiv.org/abs/2003.06281) [[Code]](https://github.com/stefanradev93/BayesFlow)
-
-        This paper propose a novel method for globally amortized Bayesian inference based on invertible neural networks which we call BayesFlow. The method uses simulation to learn a global estimator for the probabilistic mapping from observed data to underlying model parameters.
-
-
-- PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data.  [[Paper]](https://www.mdpi.com/2227-7390/10/4/610)
-
-        This paper proposes a novel planar flow-based variational auto-encoder prediction model (PFVAE), which uses the long- and short-term memory network (LSTM) as the auto-encoder and designs the variational auto-encoder (VAE) as a time series data predictor to overcome the noise effects.
-
-## 2021
-- CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
-
-        This paper sought to improve the emerging convolutions as they were expensive. So they investigated the conditions for when 3x3 convolutions are invertible under which conditions (e.g. padding) and saw successful speedups. Furthermore, they developed a more expressive, invertible Quad coupling layer. 
-
-- Orthogonalizing Convolutional Layers with the Cayley Transform.  [[Paper]](https://arxiv.org/abs/2104.07167)  [[Code]](https://github.com/locuslab/orthogonal-convolutions)
-
-        The authors parameterized the multichannel convolution to be orthogonal via the Cayley transform (skew-symmetric convolutions in the Fourier domain). This enables the inverse to be computed efficiently . 
-
-- Automatic variational inference with cascading flows.  [[Paper]](http://proceedings.mlr.press/v139/ambrogioni21a.html) 
-
-        This paper combine the flexibility of normalizing flows and the prior-embedding property of ASVI in a new family of variational programs, which named cascading flows.
-
-- Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.   [[Paper]](https://arxiv.org/abs/2103.04922) [[Datasets Used]](https://paperswithcode.com/dataset/cifar-10)
-
-         This compendium covers energy-based models, variational autoencoders, generative adversarial networks, autoregressive models, normalizing flows, in addition to numerous hybrid approaches
-
-- Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows.  [[Paper]](https://arxiv.org/abs/2002.06103)   [[Code]](https://github.com/zalandoresearch/pytorch-ts)
-
-        This paper model the multivariate temporal dynamics of time series via an autoregressive deep learning model, where the data distribution is represented by a conditioned normalizing flow.
-
-- Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting. [[Paper]](http://proceedings.mlr.press/v139/rasul21a.html)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
-
-## 2020
-- Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
-- VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation.  [[Paper]](https://arxiv.org/abs/1903.01434) [[Code]](https://github.com/tensorflow/tensor2tensor)
-- Normalizing Kalman Filters for Multivariate Time Series Analysis. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) 
-
-## 2019
-- Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
-
-         This paper propose block neural autoregressive flow (B-NAF), a much more compact universal approximator of density functions, where we model a bijection directly using a single feed-forward network.
-
-- Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design. [[Paper]](https://proceedings.mlr.press/v97/ho19a.html) [[Code]](https://github.com/aravind0706/flowpp)  [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/imagenet)
-- Sum-of-Squares Polynomial Flow. [[Paper]](http://proceedings.mlr.press/v97/jaini19a.html)
-
-## 2018
-- Neural Processes. [[Paper]](https://arxiv.org/abs/1807.01622)   [[Code]](https://github.com/deepmind/neural-processes)
-        
-         This paper introduce a class of neural latent variable models which we call Neural Processes (NPs), combining the best of both worlds. Like Gaussian process, NPs define distributions over functions, are capable of rapid adaptation to new observations, and can estimate the uncertainty in their predictions. 
-        
-- Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
-
-        We introduce Sylvester normalizing flows, which can be seen as a generalization of planar flows. Sylvester normalizing flows remove the well-known single-unit bottleneck from planar flows, making a single transformation much more flexible.
-
-- Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
+        We introduce Sylvester normalizing flows, which can be seen as a generalization of planar flows. Sylvester normalizing flows remove the well-known single-unit bottleneck from planar flows, making a single transformation much more flexible. 
 
 ## 2017
 - Masked Autoregressive Flow for Density Estimation. [[Paper]](https://arxiv.org/abs/1705.07057)  [[Code]](https://github.com/gpapamak/maf) [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/mnist) [[Dataset Used 3]](https://paperswithcode.com/dataset/bsd) [[Dataset Used 4]](https://paperswithcode.com/dataset/uci-machine-learning-repository) 
  
 
-
-
 - Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
 
-## 2017
-- Masked Autoregressive Flow for Density Estimation. [[Paper]](https://arxiv.org/abs/1705.07057)  [[Code]](https://github.com/gpapamak/maf) [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/mnist) [[Dataset Used 3]](https://paperswithcode.com/dataset/bsd) [[Dataset Used 4]](https://paperswithcode.com/dataset/uci-machine-learning-repository) 
- 
+
 
