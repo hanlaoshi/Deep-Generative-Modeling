@@ -51,6 +51,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting. [[Paper]](http://proceedings.mlr.press/v139/rasul21a.html)  [[Code]](https://github.com/zalandoresearch/pytorch-ts)
 
+        In this work, we propose TimeGrad, an autoregressive model for multivariate probabilistic time series forecasting which samples from the data distribution at each time step by estimating its gradient. 
+
 ## 2020
 - Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
 
