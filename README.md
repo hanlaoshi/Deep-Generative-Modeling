@@ -30,7 +30,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Multi-scale Attention Flow for Probabilistic Time Series Forecasting. [[paper]](https://arxiv.org/abs/2205.07493)
 
-        These authors proposed a novel non-autoregressive deep learning model, called Multi-scale Attention Normalizing Flow(MANF), where we integrate multi-scale attention and relative position information and the multivariate data distribution is represented by the conditioned normalizing flow.
+        These authors proposed a novel non-autoregressive deep learning model, called Multi-scale Attention Normalizing Flow(MANF), where ones integrate multi-scale attention and relative position information and the multivariate data distribution is represented by the conditioned normalizing flow.
 
 ## 2021
 - CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
