@@ -28,7 +28,9 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper proposes a novel planar flow-based variational auto-encoder prediction model (PFVAE), which uses the long- and short-term memory network (LSTM) as the auto-encoder and designs the variational auto-encoder (VAE) as a time series data predictor to overcome the noise effects.
 
-- Multi-scale Attention Flow for Probabilistic Time Series Forecasting
+- Multi-scale Attention Flow for Probabilistic Time Series Forecasting. [[paper]]()
+
+        In this work, we proposed a novel non-autoregressive deep learning model, called Multi-scale Attention Normalizing Flow(MANF), where we integrate multi-scale attention and relative position information and the multivariate data distribution is represented by the conditioned normalizing flow.
 
 ## 2021
 - CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
