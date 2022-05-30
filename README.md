@@ -83,7 +83,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
 
-        We introduce Sylvester normalizing flows, which can be seen as a generalization of planar flows. Sylvester normalizing flows remove the well-known single-unit bottleneck from planar flows, making a single transformation much more flexible. 
+         We introduce Sylvester normalizing flows, which can be seen as a generalization of planar flows. Sylvester normalizing flows remove the well-known single-unit bottleneck from planar flows, making a single transformation much more flexible. 
 
 ## 2017
 - Masked Autoregressive Flow for Density Estimation. [[Paper]](https://arxiv.org/abs/1705.07057)  [[Code]](https://github.com/gpapamak/maf) [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/mnist) [[Dataset Used 3]](https://paperswithcode.com/dataset/bsd) [[Dataset Used 4]](https://paperswithcode.com/dataset/uci-machine-learning-repository) 
