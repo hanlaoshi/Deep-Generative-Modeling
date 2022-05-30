@@ -63,6 +63,9 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         We introduce Invertible Dense Networks (i-DenseNets), a more parameter efficient alternative to Residual Flows. The method relies on an analysis of the Lipschitz continuity of the concatenation in DenseNets, where we enforce the invertibility of the network by satisfying the Lipschitz constraint.
 
 - VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation.  [[Paper]](https://arxiv.org/abs/1903.01434) [[Code]](https://github.com/tensorflow/tensor2tensor)
+
+         This work is the first to propose multi-frame video prediction with normalizing flows, which allows for direct optimization of the data likelihood, and produces high-quality stochastic predictions.
+
 - Normalizing Kalman Filters for Multivariate Time Series Analysis. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) 
 
 ## 2019
