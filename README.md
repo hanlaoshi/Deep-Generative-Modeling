@@ -2,7 +2,7 @@
 
 This is a repository about Deep Generative Modeling(More attention to  probabilistic time series forecasting with Normalizing Flows) 
 
-Updating everyday!!!
+Updating everyday
 
 Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
@@ -66,7 +66,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
          This work is the first to propose multi-frame video prediction with normalizing flows, which allows for direct optimization of the data likelihood, and produces high-quality stochastic predictions.
 
-- Normalizing Kalman Filters for Multivariate Time Series Analysis. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) 
+- Normalizing Kalman Filters for Multivariate Time Series Analysis.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) 
 
 ## 2019
 - Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
