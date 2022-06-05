@@ -79,11 +79,11 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 ## 2018
 - Neural Processes. [[Paper]](https://arxiv.org/abs/1807.01622)   [[Code]](https://github.com/deepmind/neural-processes)
         
-         This paper introduce a class of neural latent variable models which we call Neural Processes (NPs), combining the best of both worlds. Like Gaussian process, NPs define distributions over functions, are capable of rapid adaptation to new observations, and can estimate the uncertainty in their predictions. 
+          This paper introduce a class of neural latent variable models which we call Neural Processes (NPs), combining the best of both worlds. Like Gaussian process, NPs define distributions over functions, are capable of rapid adaptation to new observations, and can estimate the uncertainty in their predictions. 
         
 - Sylvester Normalizing Flows for Variational Inference. [[Paper]](https://arxiv.org/abs/1803.05649) [[Code]](https://github.com/riannevdberg/sylvester-flows)
 
-         We introduce Sylvester normalizing flows, which can be seen as a generalization of planar flows. Sylvester normalizing flows remove the well-known single-unit bottleneck from planar flows, making a single transformation much more flexible. 
+          We introduce Sylvester normalizing flows, which can be seen as a generalization of planar flows. Sylvester normalizing flows remove the well-known single-unit bottleneck from planar flows, making a single transformation much more flexible. 
 
 ## 2017
 - Masked Autoregressive Flow for Density Estimation. [[Paper]](https://arxiv.org/abs/1705.07057)  [[Code]](https://github.com/gpapamak/maf) [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/mnist) [[Dataset Used 3]](https://paperswithcode.com/dataset/bsd) [[Dataset Used 4]](https://paperswithcode.com/dataset/uci-machine-learning-repository) 
