@@ -74,6 +74,9 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
          This paper propose block neural autoregressive flow (B-NAF), a much more compact universal approximator of density functions, where we model a bijection directly using a single feed-forward network.
 
 - Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design. [[Paper]](https://proceedings.mlr.press/v97/ho19a.html) [[Code]](https://github.com/aravind0706/flowpp)  [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/imagenet)
+
+        In this paper, we investigate and improve upon three limiting design choices employed by flow-based models in prior work: the use of uniform noise for dequantization, the use of inexpressive affine flows, and the use of purely convolutional conditioning networks in coupling layers. 
+
 - Sum-of-Squares Polynomial Flow. [[Paper]](http://proceedings.mlr.press/v97/jaini19a.html)
 
 ## 2018
