@@ -79,7 +79,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Sum-of-Squares Polynomial Flow. [[Paper]](http://proceedings.mlr.press/v97/jaini19a.html)
 
-        Based on triangular maps, we propose a general framework for high-dimensional density estimation, by specifying one-dimensional transformations (equivalently conditional densities) and appropriate conditioner networks. 
+        Based on triangular maps, this paper propose a general framework for high-dimensional density estimation, by specifying one-dimensional transformations (equivalently conditional densities) and appropriate conditioner networks. 
 
 ## 2018
 - Neural Processes. [[Paper]](https://arxiv.org/abs/1807.01622)   [[Code]](https://github.com/deepmind/neural-processes)
