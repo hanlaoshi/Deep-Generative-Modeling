@@ -67,6 +67,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
          This work is the first to propose multi-frame video prediction with normalizing flows, which allows for direct optimization of the data likelihood, and produces high-quality stochastic predictions.
 
 - Normalizing Kalman Filters for Multivariate Time Series Analysis.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) 
+- Modeling Continuous Stochastic Processes with Dynamic Normalizing Flows[[paper]](https://arxiv.org/abs/2002.10516) [[code]](https://github.com/BorealisAI/continuous-time-flow-process)
+- 
 
 ## 2019
 - Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
