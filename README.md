@@ -70,6 +70,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Modeling Continuous Stochastic Processes with Dynamic Normalizing Flows. [[paper]](https://arxiv.org/abs/2002.10516) [[code]](https://github.com/BorealisAI/continuous-time-flow-process)
 
+        In this work, we propose a novel type of normalizing flow driven by a differential deformation of the Wiener process.
+
 - Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification. [[paper]](https://arxiv.org/abs/2001.06448)  [[code]](https://github.com/VLL-HD/FrEIA)
 
 ## 2019
