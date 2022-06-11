@@ -74,6 +74,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification. [[paper]](https://arxiv.org/abs/2001.06448)  [[code]](https://github.com/VLL-HD/FrEIA)
 
+        In this work, firstly, we develop the theory and methodology of IB-INNs, a class of conditional normalizing flows where INNs are trained using the IB objective: Introducing a small amount of {\em controlled} information loss allows for an asymptotically exact formulation of the IB, while keeping the INN's generative capabilities intact.
+
 ## 2019
 - Block Neural Autoregressive Flow.  [[Paper]](https://arxiv.org/abs/1904.04676)
 
