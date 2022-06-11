@@ -68,6 +68,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Normalizing Kalman Filters for Multivariate Time Series Analysis.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) 
 
+        This paper present a novel approach reconciling classical state space models with deep learning methods. 
+
 - Modeling Continuous Stochastic Processes with Dynamic Normalizing Flows. [[paper]](https://arxiv.org/abs/2002.10516) [[code]](https://github.com/BorealisAI/continuous-time-flow-process)
 
         In this work, we propose a novel type of normalizing flow driven by a differential deformation of the Wiener process.
