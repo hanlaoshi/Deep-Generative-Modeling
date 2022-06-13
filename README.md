@@ -15,7 +15,11 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
-- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
+- Probabilistic Forecasting through Reformer Conditioned Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1643662&dswid=-2845)
+
+         This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF), based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
+
+- Probabilistic Forecasting through Reformer Conditioned Normalizing Flows. [[paper]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1643662&dswid=-2845)
 
 - E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016) [[Code]](https://github.com/vgsatorras/en_flows)
 
@@ -35,6 +39,10 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         These authors proposed a novel non-autoregressive deep learning model, called Multi-scale Attention Normalizing Flow(MANF), where ones integrate multi-scale attention and relative position information and the multivariate data distribution is represented by the conditioned normalizing flow.
 
 ## 2021
+- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
+
+        This thesis aims to understand normalizing flows and do multivariate probabilistic forecasting using normalizing flows conditioned on autoregressive models like GRUs and Transformers.
+
 - CInC Flow: Characterizable Invertible 3x3 Convolution. [[Paper]](https://arxiv.org/abs/2107.01358)  [[Code]](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
 
         This paper sought to improve the emerging convolutions as they were expensive. So they investigated the conditions for when 3x3 convolutions are invertible under which conditions (e.g. padding) and saw successful speedups. Furthermore, they developed a more expressive, invertible Quad coupling layer. 
