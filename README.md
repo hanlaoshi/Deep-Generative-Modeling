@@ -103,6 +103,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 ## 2017
 - Masked Autoregressive Flow for Density Estimation. [[Paper]](https://arxiv.org/abs/1705.07057)  [[Code]](https://github.com/gpapamak/maf) [[Dataset Used 1]](https://paperswithcode.com/dataset/cifar-10)  [[Dataset Used 2]](https://paperswithcode.com/dataset/mnist) [[Dataset Used 3]](https://paperswithcode.com/dataset/bsd) [[Dataset Used 4]](https://paperswithcode.com/dataset/uci-machine-learning-repository) 
  
+       These authors describe an approach for increasing the flexibility of an autoregressive model, based on modelling the random numbers that the model uses internally when generating data.
 
 - Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
 
