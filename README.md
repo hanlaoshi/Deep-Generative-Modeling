@@ -15,6 +15,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
+- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
+
 - E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016) [[Code]](https://github.com/vgsatorras/en_flows)
 
         This paper introduces equivariant graph neural networks into the normalizing flow framework which combine to give invertible equivariant functions. Demonstrates their flow beats prior equivariant models and allows sampling of molecular configurations with positions, atom types and charges.
