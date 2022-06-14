@@ -115,6 +115,6 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging. [[Paper]](https://arxiv.org/abs/1811.09897) [[Dataset Used]](https://paperswithcode.com/dataset/moving-mnist)
 
-        These authors seek to develop a conditional generative model for longitudinal data generation by designing an invertable neural network. Inspired by recurrent nature of longitudinal data, we propose a novel neural network that incorporates recurrent subnetwork and context gating to include smooth transition in a sequence of generated data.
+       These authors seek to develop a conditional generative model for longitudinal data generation by designing an invertable neural network. Inspired by recurrent nature of longitudinal data, and propose a novel neural network that incorporates recurrent subnetwork and context gating to include smooth transition in a sequence of generated data.
 
 
