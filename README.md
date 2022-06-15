@@ -16,6 +16,10 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
+- Fair Normalizing Flows. [[paper]](https://openreview.net/forum?id=BrFIKuxrZE)
+
+        In this work, we present Fair Normalizing Flows (FNF), a new approach offering more rigorous fairness guarantees for learned representations.
+
 - Probabilistic Forecasting through Reformer Conditioned Normalizing Flows. [[paper]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1643662&dswid=-2845)
 
         This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF), based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
