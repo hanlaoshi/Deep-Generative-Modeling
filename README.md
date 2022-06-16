@@ -40,6 +40,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 - Multi-scale Attention Flow for Probabilistic Time Series Forecasting. [[paper]](https://arxiv.org/abs/2205.07493)
 
         These authors proposed a novel non-autoregressive deep learning model, called Multi-scale Attention Normalizing Flow(MANF), where ones integrate multi-scale attention and relative position information and the multivariate data distribution is represented by the conditioned normalizing flow.
+        
+- Autoregressive Quantile Flows for Predictive Uncertainty Estimation. [[paper]](https://arxiv.org/abs/2112.04643)
 
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
