@@ -45,6 +45,10 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 - Autoregressive Quantile Flows for Predictive Uncertainty Estimation. [[paper]](https://arxiv.org/abs/2112.04643)
 
         These authors propose autoregressive quantile flows, a flexible class of normalizing flow models trained using a novel objective based on proper scoring rules. 
+        
+- Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling. [[paper]](https://arxiv.org/abs/2110.06021)
+
+
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
 
