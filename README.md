@@ -51,7 +51,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         This paper propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases.
         
 ## 2021
-- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
+- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
 
         This thesis aims to understand normalizing flows and do multivariate probabilistic forecasting using normalizing flows conditioned on autoregressive models like GRUs and Transformers.
 
