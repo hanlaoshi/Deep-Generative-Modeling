@@ -20,7 +20,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         In this work, we present Fair Normalizing Flows (FNF), a new approach offering more rigorous fairness guarantees for learned representations.
 
-- Probabilistic Forecasting through Reformer Conditioned Normalizing Flows. [[Thesis]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1643662&dswid=-2845)
+- Probabilistic Forecasting through Reformer Conditioned Normalizing Flows. [[Paper]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1643662&dswid=-2845)
 
         This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF), based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
 
@@ -51,7 +51,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         This paper propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases.
         
 ## 2021
-- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
+- Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Paper]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
 
         This thesis aims to understand normalizing flows and do multivariate probabilistic forecasting using normalizing flows conditioned on autoregressive models like GRUs and Transformers.
 
