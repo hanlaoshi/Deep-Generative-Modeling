@@ -22,6 +22,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Autoregressive Quantile Flows for Predictive Uncertainty Estimation. [[paper]](https://arxiv.org/abs/2112.04643)
 
+        We propose autoregressive quantile flows, a flexible class of normalizing flow models trained using a novel objective based on proper scoring rules.
+
 - Probabilistic Forecasting through Reformer Conditioned Normalizing Flows. [[Thesis]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1643662&dswid=-2845)
 
         This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF), based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
