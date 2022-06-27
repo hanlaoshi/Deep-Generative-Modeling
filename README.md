@@ -31,6 +31,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper introduces equivariant graph neural networks into the normalizing flow framework which combine to give invertible equivariant functions. Demonstrates their flow beats prior equivariant models and allows sampling of molecular configurations with positions, atom types and charges.
 
+
 - BayesFlow: Learning complex stochastic models with invertible neural networks.  [[Paper]](https://arxiv.org/abs/2003.06281) [[Code]](https://github.com/stefanradev93/BayesFlow)
 
         This paper propose a novel method for globally amortized Bayesian inference based on invertible neural networks which we call BayesFlow. The method uses simulation to learn a global estimator for the probabilistic mapping from observed data to underlying model parameters.
