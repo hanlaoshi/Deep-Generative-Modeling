@@ -2,7 +2,7 @@
 
 This is a repository about Deep Generative Modeling(More attention to  probabilistic time series forecasting with Normalizing Flows) 
 
-Updating everyday！
+Updating everyday!
 
 Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
