@@ -52,6 +52,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 - Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling. [[paper]](https://arxiv.org/abs/2110.06021)
 
         This paper propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases.
+ 
+- Efficient CDF Approximations for Normalizing Flows. [[paper]](https://arxiv.org/abs/2202.11322) [[code]](https://github.com/borealisai/nflow-cdf-approximations)
         
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
