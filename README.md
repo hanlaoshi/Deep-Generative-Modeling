@@ -35,8 +35,6 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper propose a novel method for globally amortized Bayesian inference based on invertible neural networks which we call BayesFlow. The method uses simulation to learn a global estimator for the probabilistic mapping from observed data to underlying model parameters.
 
-
-
 - PFVAE: A Planar Flow-Based Variational Auto-Encoder Prediction Model for Time Series Data.  [[Paper]](https://www.mdpi.com/2227-7390/10/4/610)
 
         This paper proposes a novel planar flow-based variational auto-encoder prediction model (PFVAE), which uses the long- and short-term memory network (LSTM) as the auto-encoder and designs the variational auto-encoder (VAE) as a time series data predictor to overcome the noise effects.
