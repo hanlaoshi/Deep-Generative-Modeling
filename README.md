@@ -51,8 +51,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases.
  
-- Efficient CDF Approximations for Normalizing Flows. [[Paper{under double-blind review}]](https://arxiv.org/abs/2202.11322) [[Code]](https://github.com/borealisai/nflow-cdf-approximations)
-        
+- Efficient CDF Approximations for Normalizing Flows. [[Paper--under double-blind review}]](https://arxiv.org/abs/2202.11322) [[Code]](https://github.com/borealisai/nflow-cdf-approximations)
+        In this paper, the authors build upon the diffeomorphic properties of normalizing flows and leverage the divergence theorem to estimate the CDF over a closed region in target space in terms of the flux across its \emph{boundary}, as induced by the normalizing flow.
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577)
 
