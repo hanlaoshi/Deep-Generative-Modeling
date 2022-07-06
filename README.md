@@ -1,6 +1,6 @@
 # Deep-Generative-Modeling
 
-This is a repository about Deep Generative Modeling(More attention to  probabilistic time series forecasting with Normalizing Flows) 
+This is a repository about Deep Generative Modeling(More attention to  probabilistic time series forecasting with Normalizing Flows) .
 
 Updating everyday!
 
