@@ -48,6 +48,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         These authors propose autoregressive quantile flows, a flexible class of normalizing flow models trained using a novel objective based on proper scoring rules. 
         
+
 - Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling. [[paper]](https://arxiv.org/abs/2110.06021)
 
         This paper propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases.
