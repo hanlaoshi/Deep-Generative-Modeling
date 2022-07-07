@@ -15,7 +15,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
-- Fair Normalizing Flows. [[paper]](https://openreview.net/forum?id=BrFIKuxrZE)
+- Fair Normalizing Flows.  [[paper]](https://openreview.net/forum?id=BrFIKuxrZE)
 
         In this work, we present Fair Normalizing Flows (FNF), a new approach offering more rigorous fairness guarantees for learned representations.
 
