@@ -57,6 +57,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         
         In this paper, these authors build upon the diffeomorphic properties of normalizing flows and leverage the divergence theorem to estimate the CDF over a closed region in target space in terms of the flux across its boundary, as induced by the normalizing flow.
         
+- Short-Term Density Forecasting of Low-Voltage Load using Bernstein-Polynomial Normalizing Flows. [[Paper]](https://arxiv.org/abs/2204.13939)  [[Code]](https://github.com/marpogaus/stplf-bnf)
+
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]]([https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1627501&dswid=2577](https://github.com/hanlaoshi/Deep-Generative-Modeling/blob/main/PDF%20files/Probabilistic%20Forecast%20of%20Time%20Series%20with%20Transformers%20and%20Normalizing%20Flows.pdf))
 
