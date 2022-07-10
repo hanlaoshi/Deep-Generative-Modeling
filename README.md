@@ -87,7 +87,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         In this work, These authors propose TimeGrad, an autoregressive model for multivariate probabilistic time series forecasting which samples from the data distribution at each time step by estimating its gradient. 
 
-- RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting. [[paper]](https://proceedings.mlr.press/v139/pal21b.html)
+- RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting. [[Paper]](https://proceedings.mlr.press/v139/pal21b.html)
 
 ## 2020
 - Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
