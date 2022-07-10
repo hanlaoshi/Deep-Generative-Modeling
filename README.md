@@ -89,6 +89,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting. [[Paper]](https://proceedings.mlr.press/v139/pal21b.html)
 
+         In this work, we consider the time-series data as a random realization from a nonlinear state-space model and target Bayesian inference of the hidden states for probabilistic forecasting. 
+
 ## 2020
 - Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
 
