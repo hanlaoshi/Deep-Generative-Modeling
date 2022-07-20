@@ -27,7 +27,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
         This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF), based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
 
-- E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016) [[Code]](https://github.com/vgsatorras/en_flows)
+- E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016)  [[Code]](https://github.com/vgsatorras/en_flows)
 
         This paper introduces equivariant graph neural networks into the normalizing flow framework which combine to give invertible equivariant functions. Demonstrates their flow beats prior equivariant models and allows sampling of molecular configurations with positions, atom types and charges.
 
