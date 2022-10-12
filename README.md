@@ -12,7 +12,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 ## 2022
 - Deep Generative Modeling (Contained code)  [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 
-# <table><tr><td bgcolor=orange>    🔥Paper for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange>   🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
 - Fair Normalizing Flows. [[Paper]](https://openreview.net/forum?id=BrFIKuxrZE)
