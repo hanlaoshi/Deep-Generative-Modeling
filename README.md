@@ -15,6 +15,10 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange>   🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
+- Poisson Flow Generative Models. [[Paper]](https://arxiv.org/abs/2209.11178) [[Code]](https://github.com/newbeeer/poisson_flow)
+
+        This work propose a new "Poisson flow" generative model (PFGM) that maps a uniform distribution on a high-dimensional hemisphere into any data distribution.
+
 - Fair Normalizing Flows. [[Paper]](https://openreview.net/forum?id=BrFIKuxrZE)
 
         In this work, we present Fair Normalizing Flows (FNF), a new approach offering more rigorous fairness guarantees for learned representations.
