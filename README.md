@@ -112,7 +112,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper present a novel approach reconciling classical state space models with deep learning methods. 
 
-- Modeling Continuous Stochastic Processes with Dynamic Normalizing Flows. [[paper]](https://arxiv.org/abs/2002.10516) [[code]](https://github.com/BorealisAI/continuous-time-flow-process)
+- Modeling Continuous Stochastic Processes with Dynamic Normalizing Flows. [[Paper]](https://arxiv.org/abs/2002.10516) [[Code]](https://github.com/BorealisAI/continuous-time-flow-process)
 
         In this work, we propose a novel type of normalizing flow driven by a differential deformation of the Wiener process.
 
