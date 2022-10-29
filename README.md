@@ -99,6 +99,10 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
          In this work, we consider the time-series data as a random realization from a nonlinear state-space model and target Bayesian inference of the hidden states for probabilistic forecasting. 
 
+- Masked Autoencoder for Distribution Estimation on Small Structured Data Sets. [[Paper]](https://ieeexplore.ieee.org/document/9222344)
+
+        
+
 ## 2020
 - Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
 
