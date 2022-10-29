@@ -48,7 +48,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         These authors proposed a novel non-autoregressive deep learning model, called Multi-scale Attention Normalizing Flow(MANF), where ones integrate multi-scale attention and relative position information and the multivariate data distribution is represented by the conditioned normalizing flow.
         
-- Autoregressive Quantile Flows for Predictive Uncertainty Estimation. [[paper]](https://arxiv.org/abs/2112.04643)
+- Autoregressive Quantile Flows for Predictive Uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2112.04643)
 
         These authors propose autoregressive quantile flows, a flexible class of normalizing flow models trained using a novel objective based on proper scoring rules. 
         
