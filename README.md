@@ -101,7 +101,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Masked Autoencoder for Distribution Estimation on Small Structured Data Sets. [[Paper]](https://ieeexplore.ieee.org/document/9222344)
 
-        
+        In this article, we propose two autoencoders for estimating the density of a small set of observations, where the data have a known Markov random field (MRF) structure.
 
 ## 2020
 - Invertible DenseNets.  [[Paper]](https://arxiv.org/abs/2010.02125#)
