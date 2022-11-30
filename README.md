@@ -65,6 +65,10 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
         These authors propose an approach for flexible conditional density forecasting of short-term load based on Bernstein polynomial normalizing flows, where a neural network controls the parameters of the flow. 
 
+- EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512030)
+
+
+
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://github.com/hanlaoshi/Deep-Generative-Modeling/blob/main/PDF%20files/Probabilistic%20Forecast%20of%20Time%20Series%20with%20Transformers%20and%20Normalizing%20Flows.pdf)
 
