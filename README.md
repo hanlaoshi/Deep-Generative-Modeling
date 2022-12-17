@@ -71,6 +71,8 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - Normalizing Flows with Multi-Scale Autoregressive Priors.  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Bhattacharyya_Normalizing_Flows_With_Multi-Scale_Autoregressive_Priors_CVPR_2020_paper.html) [[Code]](https://github.com/visinf/mar-scf?utm_source=catalyzex.com)
 
+        In this work, we improve the representational power of flow-based models by introducing channel-wise dependencies in their latent space through multi-scale autoregressive priors (mAR). 
+
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://github.com/hanlaoshi/Deep-Generative-Modeling/blob/main/PDF%20files/Probabilistic%20Forecast%20of%20Time%20Series%20with%20Transformers%20and%20Normalizing%20Flows.pdf)
 
