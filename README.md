@@ -69,6 +69,8 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
         This paper propose to i) generate another latent continuous path using an encoder-decoder architecture, which corresponds to the interpolation process of NCDEs, i.e., our neural network-based interpolation vs. the existing explicit interpolation, and ii) exploit the generative characteristic of the decoder, i.e., extrapolation beyond the time domain of original data if needed.
 
+- Normalizing Flows with Multi-Scale Autoregressive Priors.  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Bhattacharyya_Normalizing_Flows_With_Multi-Scale_Autoregressive_Priors_CVPR_2020_paper.html) [[Code]](https://github.com/visinf/mar-scf?utm_source=catalyzex.com)
+
 ## 2021
 - Probabilistic Forecast of Time Series with Transformers and Normalizing Flows. [[Thesis]](https://github.com/hanlaoshi/Deep-Generative-Modeling/blob/main/PDF%20files/Probabilistic%20Forecast%20of%20Time%20Series%20with%20Transformers%20and%20Normalizing%20Flows.pdf)
 
