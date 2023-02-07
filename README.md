@@ -9,6 +9,11 @@ Contact me:   hanaif@mail2.sysu.edu.cn</font>
 
 # <table><tr><td bgcolor=orange>  🔥Book for generative modeling</td></tr></table>
 
+## 2023 
+- Deep Generative Wasserstein Gradient Flows. [[Paper]](https://openreview.net/forum?id=zjSeBTEdXp1)  [[Code]](https://openreview.net/attachment?id=zjSeBTEdXp1&name=supplementary_material)
+
+        In this paper, These authors present Deep Generative Wasserstein Gradient Flows (DGGF), which constructs a WGF between two distributions by minimizing the entropy-regularized f-divergence. 
+
 ## 2022
 - Deep Generative Modeling (Contained code)  [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 
