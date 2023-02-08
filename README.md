@@ -14,6 +14,10 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
         In this paper, These authors present Deep Generative Wasserstein Gradient Flows (DGGF), which constructs a WGF between two distributions by minimizing the entropy-regularized f-divergence. 
 
+- Invertible normalizing flow neural networks by JKO scheme. [[Paper]](https://openreview.net/forum?id=-z7O7fk_Cs) [[Code]](https://openreview.net/attachment?id=-z7O7fk_Cs&name=supplementary_material)
+
+        The current paper develops a neural ODE flow network inspired by the Jordan-Kinderleherer-Otto (JKO) scheme, which allows an efficient \textit{block-wise} training procedure
+
 ## 2022
 - Deep Generative Modeling (Contained code)  [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 
