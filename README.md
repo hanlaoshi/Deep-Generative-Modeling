@@ -7,7 +7,7 @@ Updating everyday
 
 Contact me:   hanaif@mail2.sysu.edu.cn</font> 
 
-# <table><tr><td bgcolor=orange>   🔥Book for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange>  🔥Book for generative modeling</td></tr></table>
 
 ## 2023 
 - Deep Generative Wasserstein Gradient Flows. [[Paper]](https://openreview.net/forum?id=zjSeBTEdXp1)  [[Code]](https://openreview.net/attachment?id=zjSeBTEdXp1&name=supplementary_material)
