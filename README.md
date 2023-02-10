@@ -18,7 +18,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
         The current paper develops a neural ODE flow network inspired by the Jordan-Kinderleherer-Otto (JKO) scheme, which allows an efficient block-wise training procedure
 
-# <table><tr><td bgcolor=orange>   🔥Book for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange>  🔥Book for generative modeling</td></tr></table>
 
 ## 2022
 - Deep Generative Modeling (Contained code)  [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
