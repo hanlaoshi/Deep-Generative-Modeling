@@ -10,7 +10,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 
 ## 2023 
-- Deep Generative Wasserstein Gradient Flows.  [[Paper]](https://openreview.net/forum?id=zjSeBTEdXp1)  [[Code]](https://openreview.net/attachment?id=zjSeBTEdXp1&name=supplementary_material)
+- Deep Generative Wasserstein Gradient Flows. [[Paper]](https://openreview.net/forum?id=zjSeBTEdXp1)  [[Code]](https://openreview.net/attachment?id=zjSeBTEdXp1&name=supplementary_material)
 
         In this paper, These authors present Deep Generative Wasserstein Gradient Flows (DGGF), which constructs a WGF between two distributions by minimizing the entropy-regularized f-divergence. 
 
