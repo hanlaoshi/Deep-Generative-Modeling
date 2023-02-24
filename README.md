@@ -34,7 +34,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         In this work, we present Fair Normalizing Flows (FNF), a new approach offering more rigorous fairness guarantees for learned representations.
 
-- Autoregressive Quantile Flows for Predictive Uncertainty Estimation.  [[Paper]](https://arxiv.org/abs/2112.04643)
+- Autoregressive Quantile Flows for Predictive Uncertainty Estimation.   [[Paper]](https://arxiv.org/abs/2112.04643)
 
         These authors propose autoregressive quantile flows, a flexible class of normalizing flow models trained using a novel objective based on proper scoring rules.
 
