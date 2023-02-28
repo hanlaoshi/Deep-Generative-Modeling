@@ -23,7 +23,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 ## 2022
 - Deep Generative Modeling (Contained code)  [[Book]](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 
-# <table><tr><td bgcolor=orange>   🔥Paper for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
 - Poisson Flow Generative Models. [[Paper]](https://arxiv.org/abs/2209.11178)   [[Code]](https://github.com/newbeeer/poisson_flow) [[Datasets 1]](https://paperswithcode.com/dataset/lsun) [[Datasets 2]](https://paperswithcode.com/dataset/cifar-10)
