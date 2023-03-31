@@ -26,7 +26,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange>  🔥Paper for generative modeling</td></tr></table>
 
 ## 2022
-- Poisson Flow Generative Models. [[Paper]](https://arxiv.org/abs/2209.11178)    [[Code]](https://github.com/newbeeer/poisson_flow) [[Datasets 1]](https://paperswithcode.com/dataset/lsun) [[Datasets 2]](https://paperswithcode.com/dataset/cifar-10)
+- Poisson Flow Generative Models. [[Paper]](https://arxiv.org/abs/2209.11178)     [[Code]](https://github.com/newbeeer/poisson_flow) [[Datasets 1]](https://paperswithcode.com/dataset/lsun) [[Datasets 2]](https://paperswithcode.com/dataset/cifar-10)
 
         This work propose a new "Poisson flow" generative model (PFGM) that maps a uniform distribution on a high-dimensional hemisphere into any data distribution.
 
