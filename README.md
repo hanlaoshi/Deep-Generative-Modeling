@@ -40,7 +40,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - Probabilistic Forecasting through Reformer Conditioned Normalizing Flows.  [[Thesis]](https://github.com/hanlaoshi/Deep-Generative-Modeling/blob/main/PDF%20files/Probabilistic%20Forecasting%20through%20Reformer%20Conditioned%20Normalizing%20Flows.pdf)
 
-        This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF), based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
+        This thesis introduces a new model for forecasting, the Reformer Masked Autoregressive Model (RMAF),  based on the Transformer Masked Autoregressive Flow (TMAF), where we replace the Transformer part of the model with a Reformer. 
 
 - E(n) Equivariant Normalizing Flows. [[Paper]](https://arxiv.org/abs/2105.09016)  [[Code]](https://github.com/vgsatorras/en_flows)
 
